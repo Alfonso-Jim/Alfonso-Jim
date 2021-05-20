@@ -1,6 +1,6 @@
 ### 🎾 Poncho here, hello! 🍊
 
-- 💻 I’m currently working on ES6 projects
+- 💻 I’m currently working on ES(5,6 & 7) & Redux projects
 - 🌇 I’m ideally seeking for remote cooperation (hybrid is also cool😎)
 
 Reach me [here](https://alfonso-dev.com/contact/).
