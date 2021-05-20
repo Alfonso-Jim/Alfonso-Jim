@@ -1,7 +1,7 @@
 ### 🎾 Poncho here, hello! 🍊
 
 - 💻 I’m currently working on ES6 projects
-- 🌇 I’m ideally seek for remote cooperation (hybrid is also cool😎)
+- 🌇 I’m ideally seeking for remote cooperation (hybrid is also cool😎)
 
 Reach me [here](https://alfonso-dev.com/contact/).
 
