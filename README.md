@@ -1,7 +1,7 @@
 ### 🎾 Poncho here, hello! 🍊
 
-- 💻 I’m currently working on ES(5,6 & 7) & Redux projects
-- 🌇 I’m ideally seeking for remote cooperation (hybrid is also cool😎)
+- 💻 I’m currently working on ES(5,6 & 7) React & RTK projects
+- 🌇 I currently work as a React Front End Developer for Hemmersbach and UrbanEquestrian
 
 Reach me [here](https://alfonso-dev.com/contact/).
 
